@@ -24,4 +24,5 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: rdbrdevops/mysql:1.0.0
+        image: joindevops/mysql:1.0.0
+
